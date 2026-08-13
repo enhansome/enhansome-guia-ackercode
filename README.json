@@ -14,7 +14,7 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16853
+            "stars": 16857
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14743
+            "stars": 14744
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14114
+            "stars": 14113
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-04T04:50:06Z",
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13671
+            "stars": 13672
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2024-07-22T19:59:35Z",
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11750
+            "stars": 11751
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-06-01T14:15:45Z",
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10517
+            "stars": 10518
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-08-10T06:52:34Z",
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9603
+            "stars": 9606
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-07-15T10:58:26Z",
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9317
+            "stars": 9320
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2025-08-09T12:09:44Z",
             "owner": "brootware",
             "repo": "awesome-cyber-security-university",
-            "stars": 3250
+            "stars": 3251
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14114
+            "stars": 14113
           }
         },
         {
@@ -356,7 +356,7 @@
             "last_commit": "2026-08-04T04:50:06Z",
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13671
+            "stars": 13672
           }
         },
         {
@@ -370,7 +370,7 @@
             "last_commit": "2026-05-31T10:54:05Z",
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10529
+            "stars": 10528
           }
         },
         {
@@ -395,10 +395,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-26T01:27:23Z",
+            "last_commit": "2026-08-13T15:21:19Z",
             "owner": "infoslack",
             "repo": "awesome-web-hacking",
-            "stars": 7230
+            "stars": 7232
           }
         },
         {
@@ -432,7 +432,7 @@
             "last_commit": "2024-08-21T08:14:42Z",
             "owner": "htr-tech",
             "repo": "zphisher",
-            "stars": 16617
+            "stars": 16621
           }
         },
         {
@@ -446,7 +446,7 @@
             "last_commit": "2026-05-22T17:42:02Z",
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14764
+            "stars": 14766
           }
         },
         {
@@ -494,7 +494,7 @@
             "last_commit": "2026-03-07T06:49:50Z",
             "owner": "djadmin",
             "repo": "awesome-bug-bounty",
-            "stars": 5842
+            "stars": 5841
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2026-01-05T18:43:02Z",
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8009
+            "stars": 8012
           }
         },
         {
@@ -556,7 +556,7 @@
             "last_commit": "2026-08-10T11:02:29Z",
             "owner": "HQarroum",
             "repo": "awesome-iot",
-            "stars": 4457
+            "stars": 4456
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2026-08-06T07:20:15Z",
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1024
+            "stars": 1025
           }
         },
         {
@@ -722,7 +722,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118144
+            "stars": 118206
           }
         },
         {
@@ -736,7 +736,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14743
+            "stars": 14744
           }
         },
         {
@@ -750,7 +750,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14114
+            "stars": 14113
           }
         },
         {
@@ -764,7 +764,7 @@
             "last_commit": "2026-06-01T14:15:45Z",
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10517
+            "stars": 10518
           }
         },
         {
@@ -778,7 +778,7 @@
             "last_commit": "2026-08-10T19:53:00Z",
             "owner": "lissy93",
             "repo": "awesome-privacy",
-            "stars": 9729
+            "stars": 9728
           }
         },
         {
@@ -792,7 +792,7 @@
             "last_commit": "2026-07-15T10:58:26Z",
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9317
+            "stars": 9320
           }
         },
         {
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:19:44.858Z",
+    "last_updated": "2026-08-13T17:16:55.788Z",
     "original_repository": "alestanalves/guia-ackercode",
     "original_repository_sha": "ff82b69b22c24b34075d8975c06377a50a767dbf",
     "enhanced_repository": "enhansome/enhansome-guia-ackercode",
