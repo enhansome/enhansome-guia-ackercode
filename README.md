@@ -7,10 +7,10 @@
   <h1 align="center">Seu guia de Programação, Hacking, Data & AI</h1>
 </p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,662 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,738 | 🐛 102 | 📅 2026-08-18
 
 Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hacking para todos, temos o objetivo de te ajudar a trilhar um caminho nessa área que tanto amamos. Contudo, fique com os conteúdos abaixo e não esqueça de nos **seguir** por aqui e bem-vindo ao mundo da tecnologia.
-Uma das nossas inspirações para este guia foi o [guia devbrasil](https://github.com/arthurspk/guiadevbrasil) ⭐ 15,753 | 🐛 22 | 📅 2024-07-16 e todos os conteúdos de [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,662 | 🐛 102 | 📅 2026-08-18 do github.
+Uma das nossas inspirações para este guia foi o [guia devbrasil](https://github.com/arthurspk/guiadevbrasil) ⭐ 15,755 | 🐛 22 | 📅 2024-07-16 e todos os conteúdos de [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,738 | 🐛 102 | 📅 2026-08-18 do github.
 
 ## Python do ZERO ao Hacking
 
@@ -30,7 +30,7 @@ O curso Python do 0 ao Hacking é uma jornada completa para aqueles que desejam 
 
 ## Build your own X ≧◠‿◠≦
 
-* [Build your own X](https://github.com/codecrafters-io/build-your-own-x) ⭐ 541,126 | 🐛 634 | 🌐 Markdown | 📅 2026-07-14 - Repositório com tutoriais para construir suas próprias versões de várias tecnologias.
+* [Build your own X](https://github.com/codecrafters-io/build-your-own-x) ⭐ 541,200 | 🐛 634 | 🌐 Markdown | 📅 2026-07-14 - Repositório com tutoriais para construir suas próprias versões de várias tecnologias.
 
 ## 🗺 Roadmap
 
@@ -63,11 +63,11 @@ O curso Python do 0 ao Hacking é uma jornada completa para aqueles que desejam 
 
 ## 🔐 Security Checklist
 
-* [Security Checklist](https://github.com/Lissy93/personal-security-checklist) ⭐ 22,129 | 🐛 56 | 🌐 TypeScript | 📅 2026-02-28 - Lista de verificação pessoal para melhorar a segurança online.
+* [Security Checklist](https://github.com/Lissy93/personal-security-checklist) ⭐ 22,131 | 🐛 56 | 🌐 TypeScript | 📅 2026-02-28 - Lista de verificação pessoal para melhorar a segurança online.
 
 ## 👨‍💻 Introdução à Ciência da Computação
 
-* [computer science](https://github.com/ossu/computer-science) ⭐ 208,157 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 - Currículo aberto para aprendizado de ciência da computação.
+* [computer science](https://github.com/ossu/computer-science) ⭐ 208,169 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 - Currículo aberto para aprendizado de ciência da computação.
 
 ## 🧛‍♀️ Introdução à Ethical Hacking
 
@@ -88,33 +88,33 @@ O curso Python do 0 ao Hacking é uma jornada completa para aqueles que desejam 
 * [O mítico homem-mês](https://amzn.to/3A0Xkua) - Ensaios clássicos sobre engenharia de software.
 * [Domain-Driven Design](https://amzn.to/3BJ68pN) - Guia sobre design de software orientado por domínio.
 * [Engenharia de Confiabilidade do Google](https://amzn.to/3dczpPn) - Livro sobre práticas de engenharia de confiabilidade no Google.
-* [Free programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 394,761 | 🐛 81 | 🌐 Python | 📅 2026-08-18 - Coletânea de livros gratuitos sobre programação.
+* [Free programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 394,776 | 🐛 81 | 🌐 Python | 📅 2026-08-18 - Coletânea de livros gratuitos sobre programação.
 * [Recommended Reading](http://dfir.org/?q=node/8) - Lista de leituras recomendadas sobre segurança e resposta a incidentes.
 
 ## 📚 Livros gratis de programação e tecnologia
 
-* [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 394,761 | 🐛 81 | 🌐 Python | 📅 2026-08-18<br>
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 394,776 | 🐛 81 | 🌐 Python | 📅 2026-08-18<br>
 
 ## 🗿 Dicas para passar na sua primeira entrevista de emprego em programação
 
-* [coding-interview-university](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ptbr.md) ⭐ 359,199 | 🐛 124 | 📅 2025-08-28
+* [coding-interview-university](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ptbr.md) ⭐ 359,225 | 🐛 124 | 📅 2025-08-28
 
 ## 🎢 Construir sistemas robustos que aguentam paulada
 
-* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 364,830 | 🐛 608 | 🌐 Python | 📅 2026-03-20
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 364,875 | 🐛 608 | 🌐 Python | 📅 2026-03-20
 
 ## 🔐 Security
 
-* [Hacking](https://github.com/carpedm20/awesome-hacking#readme) ⭐ 16,899 | 🐛 68 | 📅 2024-06-02 - Recursos diversos para hacking.
-* [Security](https://github.com/sbilly/awesome-security#readme) ⭐ 14,766 | 🐛 309 | 📅 2026-01-11 - Lista abrangente de recursos de segurança cibernética.
-* [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) ⭐ 14,133 | 🐛 25 | 📅 2024-06-07 - Ferramentas e recursos para análise de malware.
+* [Hacking](https://github.com/carpedm20/awesome-hacking#readme) ⭐ 16,901 | 🐛 68 | 📅 2024-06-02 - Recursos diversos para hacking.
+* [Security](https://github.com/sbilly/awesome-security#readme) ⭐ 14,768 | 🐛 310 | 📅 2026-01-11 - Lista abrangente de recursos de segurança cibernética.
+* [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) ⭐ 14,134 | 🐛 25 | 📅 2024-06-07 - Ferramentas e recursos para análise de malware.
 * [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) ⭐ 13,698 | 🐛 15 | 🌐 Python | 📅 2026-08-04 - Ferramentas e técnicas de segurança web.
-* [CTF](https://github.com/apsdehal/awesome-ctf#readme) ⭐ 11,765 | 🐛 64 | 🌐 JavaScript | 📅 2024-07-22 - Capture The Flag: recursos para competições de hacking.
+* [CTF](https://github.com/apsdehal/awesome-ctf#readme) ⭐ 11,766 | 🐛 64 | 🌐 JavaScript | 📅 2024-07-22 - Capture The Flag: recursos para competições de hacking.
 * [Honeypots](https://github.com/paralax/awesome-honeypots#readme) ⭐ 10,522 | 🐛 21 | 🌐 Python | 📅 2026-06-01 - Lista de armadilhas de segurança cibernética para enganar atacantes.
-* [Android Security](https://github.com/ashishb/android-security-awesome#readme) ⭐ 9,618 | 🐛 2 | 🌐 Makefile | 📅 2026-08-17 - Recursos de segurança para a plataforma Android.
+* [Android Security](https://github.com/ashishb/android-security-awesome#readme) ⭐ 9,618 | 🐛 1 | 🌐 Makefile | 📅 2026-08-19 - Recursos de segurança para a plataforma Android.
 * [Incident Response](https://github.com/meirwah/awesome-incident-response#readme) ⭐ 9,338 | 🐛 74 | 📅 2026-07-15 - Ferramentas e recursos para resposta a incidentes de segurança.
-* [Application Security](https://github.com/paragonie/awesome-appsec#readme) ⭐ 7,034 | 🐛 40 | 🌐 PHP | 📅 2025-02-22 - Recursos e ferramentas para segurança de aplicativos.
-* [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) ⭐ 5,521 | 🐛 74 | 📅 2024-07-15 - Recursos para equipes de segurança defensiva.
+* [Application Security](https://github.com/paragonie/awesome-appsec#readme) ⭐ 7,035 | 🐛 40 | 🌐 PHP | 📅 2025-02-22 - Recursos e ferramentas para segurança de aplicativos.
+* [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) ⭐ 5,522 | 🐛 75 | 📅 2024-07-15 - Recursos para equipes de segurança defensiva.
 * [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme) ⭐ 4,447 | 🐛 2 | 📅 2026-05-30 - Recursos para segurança automotiva e hacking de veículos.
 * [OSCE Study Guide](https://github.com/CyberSecurityUP/OSCE-Complete-Guide) ⭐ 3,887 | 🐛 3 | 📅 2026-01-02 - Guia de estudo para a certificação Offensive Security Certified Expert.
 * [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) ⭐ 3,271 | 🐛 2 | 📅 2025-08-09 - Recursos educacionais gratuitos que se concentram em aprender fazendo.
@@ -131,13 +131,13 @@ O curso Python do 0 ao Hacking é uma jornada completa para aqueles que desejam 
 
 ## 🎩 Hacking
 
-* [Hacker101](https://github.com/Hacker0x01/hacker101) ⭐ 14,508 | 🐛 3 | 🌐 SCSS | 📅 2025-02-22 - Curso gratuito sobre hacking e segurança da informação.
-* [Analise de Malware](https://github.com/rshipp/awesome-malware-analysis/) ⭐ 14,133 | 🐛 25 | 📅 2024-06-07 - Ferramentas e técnicas para análise de malware.
+* [Hacker101](https://github.com/Hacker0x01/hacker101) ⭐ 14,507 | 🐛 3 | 🌐 SCSS | 📅 2025-02-22 - Curso gratuito sobre hacking e segurança da informação.
+* [Analise de Malware](https://github.com/rshipp/awesome-malware-analysis/) ⭐ 14,134 | 🐛 25 | 📅 2024-06-07 - Ferramentas e técnicas para análise de malware.
 * [Web Hacking Security](https://github.com/qazbnm456/awesome-web-security/) ⭐ 13,698 | 🐛 15 | 🌐 Python | 📅 2026-08-04 - Ferramentas para segurança em aplicações web.
 * [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,545 | 🐛 117 | 📅 2026-05-31 - Coleta e análise de dados para identificar ameaças de segurança.
 * [Red Team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) ⭐ 8,061 | 🐛 19 | 📅 2023-12-28 - Ferramentas e técnicas para simulação de ataques.
-* [Web Hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,235 | 🐛 7 | 📅 2026-08-13 - Recursos e ferramentas para hacking de aplicações web.
-* [Reversing](https://github.com/tylerha97/awesome-reversing) ⭐ 4,507 | 🐛 17 | 📅 2023-08-19 - Ferramentas e técnicas para engenharia reversa.
+* [Web Hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,237 | 🐛 7 | 📅 2026-08-13 - Recursos e ferramentas para hacking de aplicações web.
+* [Reversing](https://github.com/tylerha97/awesome-reversing) ⭐ 4,508 | 🐛 17 | 📅 2023-08-19 - Ferramentas e técnicas para engenharia reversa.
 * [HackTheBox](https://www.hackthebox.com/) - Plataforma online para praticar habilidades de hacking.
 * [HackaFlag](https://hackaflag.com.br/academy.html) - Plataforma brasileira de aprendizado e competição em segurança.
 * [TryHackMe](https://tryhackme.com/hacktivities) - Ambiente de aprendizado interativo em segurança cibernética.
@@ -150,10 +150,10 @@ O curso Python do 0 ao Hacking é uma jornada completa para aqueles que desejam 
 
 ## 🐟 Phishing
 
-* [zphisher](https://github.com/htr-tech/zphisher) ⭐ 16,645 | 🐛 482 | 🌐 HTML | 📅 2024-08-21 - Ferramenta automatizada para ataques de phishing.
-* [Wifi Phishing](https://github.com/wifiphisher/wifiphisher) ⭐ 14,774 | 🐛 353 | 🌐 Python | 📅 2026-05-22 - Ferramenta para realizar ataques de phishing em redes WiFi.
-* [gophish](https://github.com/gophish/gophish) ⭐ 14,133 | 🐛 752 | 🌐 Go | 📅 2024-09-23 - Ferramenta de código aberto para criar campanhas de phishing.
-* [Social phishing](https://github.com/UndeadSec/SocialFish) ⭐ 4,842 | 🐛 2 | 🌐 CSS | 📅 2026-05-20 - Ferramenta de phishing para engenharia social.
+* [zphisher](https://github.com/htr-tech/zphisher) ⭐ 16,646 | 🐛 482 | 🌐 HTML | 📅 2024-08-21 - Ferramenta automatizada para ataques de phishing.
+* [Wifi Phishing](https://github.com/wifiphisher/wifiphisher) ⭐ 14,775 | 🐛 353 | 🌐 Python | 📅 2026-05-22 - Ferramenta para realizar ataques de phishing em redes WiFi.
+* [gophish](https://github.com/gophish/gophish) ⭐ 14,135 | 🐛 751 | 🌐 Go | 📅 2024-09-23 - Ferramenta de código aberto para criar campanhas de phishing.
+* [Social phishing](https://github.com/UndeadSec/SocialFish) ⭐ 4,843 | 🐛 2 | 🌐 CSS | 📅 2026-05-20 - Ferramenta de phishing para engenharia social.
 
 ## 🍫 Bug bounty
 
@@ -212,8 +212,8 @@ Analisador de tráfego de rede.
 
 ## 🖱 Hardware
 
-* [Electronics](https://github.com/kitspace/awesome-electronics#readme) ⭐ 8,034 | 🐛 30 | 📅 2026-01-05 - Recursos para engenheiros eletrônicos e amadores.
-* [Robotics](https://github.com/Kiloreux/awesome-robotics#readme) ⭐ 6,961 | 🐛 37 | 📅 2024-09-22 - Recursos incríveis sobre robótica.
+* [Electronics](https://github.com/kitspace/awesome-electronics#readme) ⭐ 8,035 | 🐛 30 | 📅 2026-01-05 - Recursos para engenheiros eletrônicos e amadores.
+* [Robotics](https://github.com/Kiloreux/awesome-robotics#readme) ⭐ 6,963 | 🐛 37 | 📅 2024-09-22 - Recursos incríveis sobre robótica.
 * [Internet of Things](https://github.com/HQarroum/awesome-iot#readme) ⭐ 4,467 | 🐛 8 | 📅 2026-08-10 - Recursos para Internet das Coisas (IoT).
 * [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) ⭐ 3,881 | 🐛 13 | 📅 2023-11-20 - Ferramentas gratuitas e abertas para desenvolvimento robótico profissional.
 * [Plotters](https://github.com/beardicus/awesome-plotters#readme) ⭐ 1,439 | 🐛 6 | 📅 2025-12-03 - Máquinas de desenho controladas por computador e outros robôs de artes visuais.
@@ -235,15 +235,15 @@ Analisador de tráfego de rede.
 * [Curso de GO 3](https://www.youtube.com/playlist?list=PLdKnuzc4h6gFmPLeous4S0xn0j9Ik2s3Y) - Curso de Go para desenvolvimento web.
 * [Curso de GO 4](https://www.youtube.com/playlist?list=PLt1J5u9LpM5-L-Ps8jjr91pKhFxAnxKJp) - Curso de Go para microserviços.
 * [Curso de GO 5](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) - Curso de Go para automação.
-* [Awesome Go](https://github.com/avelino/awesome-go) ⭐ 181,508 | 🐛 213 | 🌐 Go | 📅 2026-08-19 - Recursos incríveis sobre a linguagem Go.
+* [Awesome Go](https://github.com/avelino/awesome-go) ⭐ 181,542 | 🐛 214 | 🌐 Go | 📅 2026-08-19 - Recursos incríveis sobre a linguagem Go.
 
 ## 👀 Ta precisando de APIs para teste?
 
-* [public-apis](https://github.com/public-apis/public-apis) ⭐ 465,390 | 🐛 1,704 | 🌐 Python | 📅 2026-08-18 - Lista de APIs públicas gratuitas para testes e desenvolvimento.
+* [public-apis](https://github.com/public-apis/public-apis) ⭐ 465,664 | 🐛 1,706 | 🌐 Python | 📅 2026-08-18 - Lista de APIs públicas gratuitas para testes e desenvolvimento.
 
 ## 🤔 The Art of Command Line
 
-* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,123 | 🐛 256 | 📅 2024-06-25 - Guia completo para uso avançado da linha de comando.
+* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,126 | 🐛 256 | 📅 2024-06-25 - Guia completo para uso avançado da linha de comando.
 
 ## 📉 Domain name Research / Analysis / Reputation
 
@@ -259,7 +259,7 @@ Analisador de tráfego de rede.
 * [DNS dumpster](https://dnsdumpster.com/) - Ferramenta de coleta de dados DNS.
 * [DNS Propagation Checker](https://www.whatsmydns.net/) - Ferramenta para verificar a propagação de DNS.
 * [DNS stuff](http://www.dnsstuff.com/) - Ferramentas para análise e resolução de problemas de DNS.
-* [Domain analysis list](https://github.com/rshipp/awesome-malware-analysis/#domain-analysis) ⭐ 14,133 | 🐛 25 | 📅 2024-06-07 - Recursos para análise de domínios.
+* [Domain analysis list](https://github.com/rshipp/awesome-malware-analysis/#domain-analysis) ⭐ 14,134 | 🐛 25 | 📅 2024-06-07 - Recursos para análise de domínios.
 * [Domain hijacking intro](https://en.wikipedia.org/wiki/Domain_hijacking) - Introdução ao sequestro de domínios.
 * [Expired domain](https://www.expireddomains.net/backorder-expired-domains/) - Pesquisa de domínios expirados.
 * [Google](https://www.google.com/transparencyreport/safebrowsing/diagnostic/) - Relatórios de segurança do Google Safe Browsing.
@@ -321,11 +321,11 @@ Analisador de tráfego de rede.
 
 ## ⭐ Awesome
 
-* [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 118,612 | 🐛 40 | 📅 2026-07-26 - Recursos diversos sobre hacking.
-* [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,766 | 🐛 309 | 📅 2026-01-11 - Lista abrangente de recursos de segurança.
-* [Awesome Malware](https://github.com/rshipp/awesome-malware-analysis/) ⭐ 14,133 | 🐛 25 | 📅 2024-06-07 - Recursos para análise de malware.
+* [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 118,625 | 🐛 40 | 📅 2026-07-26 - Recursos diversos sobre hacking.
+* [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,768 | 🐛 310 | 📅 2026-01-11 - Lista abrangente de recursos de segurança.
+* [Awesome Malware](https://github.com/rshipp/awesome-malware-analysis/) ⭐ 14,134 | 🐛 25 | 📅 2024-06-07 - Recursos para análise de malware.
 * [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,522 | 🐛 21 | 🌐 Python | 📅 2026-06-01 - Recursos sobre honeypots de segurança.
-* [Awesome Privacy](https://github.com/Lissy93/awesome-privacy) ⭐ 9,751 | 🐛 2 | 🌐 Astro | 📅 2026-08-17 - Recursos sobre privacidade e segurança de dados.
+* [Awesome Privacy](https://github.com/Lissy93/awesome-privacy) ⭐ 9,756 | 🐛 3 | 🌐 Astro | 📅 2026-08-17 - Recursos sobre privacidade e segurança de dados.
 * [Reposta a incidentes](https://github.com/meirwah/awesome-incident-response/) ⭐ 9,338 | 🐛 74 | 📅 2026-07-15 - Ferramentas para resposta a incidentes.
 * [Awesome Red Team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) ⭐ 8,061 | 🐛 19 | 📅 2023-12-28 - Ferramentas e técnicas para equipes Red Team.
 * [Awesome Tor](https://github.com/ajvb/awesome-tor) ⭐ 504 | 🐛 3 | 📅 2023-09-03 - Ferramentas e recursos para uso do Tor.
@@ -386,7 +386,7 @@ Analisador de tráfego de rede.
 ## 🧬 Redes
 
 * [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme) ⭐ 4,093 | 🐛 19 | 🌐 R | 📅 2026-04-17 - Ferramentas e técnicas para análise de redes.
-* [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme) ⭐ 3,414 | 🐛 14 | 📅 2025-09-03 - Ferramentas para análise de arquivos PCAP.
+* [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme) ⭐ 3,413 | 🐛 14 | 📅 2025-09-03 - Ferramentas para análise de arquivos PCAP.
 * [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn#readme) ⚠️ Archived - Redes definidas por software e suas aplicações.
 * [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) ⭐ 495 | 🐛 7 | 📅 2026-05-18 - Protocolos de comunicação em tempo real.
 * [SNMP](https://github.com/eozer/awesome-snmp#readme) ⭐ 191 | 🐛 3 | 📅 2026-03-30 - Protocolo para gerenciamento de redes IP.
