@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28084589,
             "language": null,
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16896
+            "stars": 16899
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23208012,
             "language": null,
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14760
+            "stars": 14766
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35313712,
             "language": null,
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14131
+            "stars": 14133
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80358070,
             "language": "Python",
             "last_commit": "2026-08-04T04:50:06Z",
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13691
+            "stars": 13698
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31452467,
             "language": "JavaScript",
             "last_commit": "2024-07-22T19:59:35Z",
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11762
+            "stars": 11765
           }
         },
         {
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37659549,
             "language": "Python",
             "last_commit": "2026-06-01T14:15:45Z",
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10520
+            "stars": 10522
           }
         },
         {
@@ -94,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22117770,
             "language": "Makefile",
             "last_commit": "2026-08-17T06:04:10Z",
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9617
+            "stars": 9618
           }
         },
         {
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45943554,
             "language": null,
             "last_commit": "2026-07-15T10:58:26Z",
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9334
+            "stars": 9338
           }
         },
         {
@@ -122,11 +130,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34877308,
             "language": "PHP",
             "last_commit": "2025-02-22T16:39:11Z",
             "owner": "paragonie",
             "repo": "awesome-appsec",
-            "stars": 7031
+            "stars": 7034
           }
         },
         {
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142053144,
             "language": null,
             "last_commit": "2024-07-15T08:05:27Z",
             "owner": "fabacab",
@@ -150,11 +160,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64367335,
             "language": null,
             "last_commit": "2026-05-30T00:29:18Z",
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4448
+            "stars": 4447
           }
         },
         {
@@ -164,11 +175,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 377629895,
             "language": null,
             "last_commit": "2026-01-02T13:56:00Z",
             "owner": "JoasASantos",
             "repo": "OSCE3-Complete-Guide",
-            "stars": 3888
+            "stars": 3887
           }
         },
         {
@@ -178,11 +190,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 476271445,
             "language": null,
             "last_commit": "2025-08-09T12:09:44Z",
             "owner": "brootware",
             "repo": "awesome-cyber-security-university",
-            "stars": 3269
+            "stars": 3271
           }
         },
         {
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198968285,
             "language": null,
             "last_commit": "2023-10-17T12:23:20Z",
             "owner": "fkie-cad",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94710048,
             "language": null,
             "last_commit": "2022-06-28T11:17:31Z",
             "owner": "fabacab",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244098056,
             "language": null,
             "last_commit": "2024-08-02T12:52:41Z",
             "owner": "jakob-pennington",
@@ -234,11 +250,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 432715698,
             "language": null,
             "last_commit": "2026-05-31T10:23:25Z",
             "owner": "packing-box",
             "repo": "awesome-executable-packing",
-            "stars": 1608
+            "stars": 1609
           }
         },
         {
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49365980,
             "language": null,
             "last_commit": "2025-08-24T14:05:31Z",
             "owner": "daviddias",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154854935,
             "language": null,
             "last_commit": "2026-07-09T01:53:13Z",
             "owner": "cpuu",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 459227870,
             "language": null,
             "last_commit": "2026-03-31T07:26:17Z",
             "owner": "Karneades",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184398990,
             "language": null,
             "last_commit": "2026-05-31T16:51:47Z",
             "owner": "oppoverbakke",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 424978034,
             "language": null,
             "last_commit": "2022-06-06T17:08:13Z",
             "owner": "kareniel",
@@ -315,7 +337,7 @@
       "title": "🔐 Security"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -324,11 +346,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112235591,
             "language": "SCSS",
             "last_commit": "2025-02-22T06:59:37Z",
             "owner": "Hacker0x01",
             "repo": "hacker101",
-            "stars": 14509
+            "stars": 14508
           }
         },
         {
@@ -338,11 +361,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35313712,
             "language": null,
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14131
+            "stars": 14133
           }
         },
         {
@@ -352,11 +376,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80358070,
             "language": "Python",
             "last_commit": "2026-08-04T04:50:06Z",
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13691
+            "stars": 13698
           }
         },
         {
@@ -366,11 +391,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48368290,
             "language": null,
             "last_commit": "2026-05-31T10:54:05Z",
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10543
+            "stars": 10545
           }
         },
         {
@@ -380,11 +406,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104987608,
             "language": null,
             "last_commit": "2023-12-28T18:10:52Z",
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8060
+            "stars": 8061
           }
         },
         {
@@ -394,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34994225,
             "language": null,
             "last_commit": "2026-08-13T15:21:19Z",
             "owner": "infoslack",
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53292594,
             "language": null,
             "last_commit": "2023-08-19T07:30:45Z",
             "owner": "tylerha97",
@@ -419,7 +448,7 @@
       "title": "🎩 Hacking"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -428,11 +457,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223953992,
             "language": "HTML",
             "last_commit": "2024-08-21T08:14:42Z",
             "owner": "htr-tech",
             "repo": "zphisher",
-            "stars": 16639
+            "stars": 16645
           }
         },
         {
@@ -442,11 +472,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24499174,
             "language": "Python",
             "last_commit": "2026-05-22T17:42:02Z",
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14773
+            "stars": 14774
           }
         },
         {
@@ -456,11 +487,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14508450,
             "language": "Go",
             "last_commit": "2024-09-23T04:24:43Z",
             "owner": "gophish",
             "repo": "gophish",
-            "stars": 14131
+            "stars": 14133
           }
         },
         {
@@ -470,18 +502,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119437761,
             "language": "CSS",
             "last_commit": "2026-05-20T13:21:12Z",
             "owner": "UndeadSec",
             "repo": "SocialFish",
-            "stars": 4841
+            "stars": 4842
           }
         }
       ],
       "title": "🐟 Phishing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -490,11 +523,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51669870,
             "language": null,
             "last_commit": "2026-03-07T06:49:50Z",
             "owner": "djadmin",
             "repo": "awesome-bug-bounty",
-            "stars": 5858
+            "stars": 5862
           }
         },
         {
@@ -504,18 +538,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67130928,
             "language": null,
             "last_commit": "2024-07-31T22:02:17Z",
             "owner": "ngalongc",
             "repo": "bug-bounty-reference",
-            "stars": 4246
+            "stars": 4248
           }
         }
       ],
       "title": "🍫 Bug bounty"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -524,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64177015,
             "language": null,
             "last_commit": "2026-01-05T18:43:02Z",
             "owner": "kitspace",
@@ -538,11 +574,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46938122,
             "language": null,
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6959
+            "stars": 6961
           }
         },
         {
@@ -552,6 +589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43182851,
             "language": null,
             "last_commit": "2026-08-10T11:02:29Z",
             "owner": "HQarroum",
@@ -566,6 +604,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217333025,
             "language": null,
             "last_commit": "2023-11-20T07:13:29Z",
             "owner": "Ly0n",
@@ -580,6 +619,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136463450,
             "language": null,
             "last_commit": "2025-12-03T21:39:31Z",
             "owner": "beardicus",
@@ -594,11 +634,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255347464,
             "language": null,
             "last_commit": "2026-03-16T09:19:48Z",
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1322
+            "stars": 1323
           }
         },
         {
@@ -608,6 +649,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 441230859,
             "language": null,
             "last_commit": "2026-08-06T07:20:15Z",
             "owner": "delftopenhardware",
@@ -622,6 +664,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22374779,
             "language": null,
             "last_commit": "2019-05-03T11:40:22Z",
             "owner": "rabschi",
@@ -636,18 +679,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48334876,
             "language": "HTML",
             "last_commit": "2023-06-25T07:51:40Z",
             "owner": "gitfrage",
             "repo": "guitarspecs",
-            "stars": 283
+            "stars": 284
           }
         }
       ],
       "title": "🖱 Hardware"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -656,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133574273,
             "language": "Python",
             "last_commit": "2020-04-05T18:36:58Z",
             "owner": "bjoernkarmann",
@@ -670,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88066841,
             "language": "C++",
             "last_commit": "2023-08-28T12:56:53Z",
             "owner": "SpacehuhnTech",
@@ -684,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 10712158,
             "language": "Shell",
             "last_commit": "2014-03-03T01:54:44Z",
             "owner": "breadtk",
@@ -698,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1122811905,
             "language": null,
             "last_commit": "2025-12-23T21:59:08Z",
             "owner": "rootzoll",
@@ -709,7 +757,7 @@
       "title": "🍒 Raspberry Pi/ IoT Security Software"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -718,11 +766,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55076063,
             "language": null,
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118555
+            "stars": 118612
           }
         },
         {
@@ -732,11 +781,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23208012,
             "language": null,
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14760
+            "stars": 14766
           }
         },
         {
@@ -746,11 +796,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35313712,
             "language": null,
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14131
+            "stars": 14133
           }
         },
         {
@@ -760,11 +811,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37659549,
             "language": "Python",
             "last_commit": "2026-06-01T14:15:45Z",
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10520
+            "stars": 10522
           }
         },
         {
@@ -774,11 +826,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 512269935,
             "language": "Astro",
             "last_commit": "2026-08-17T13:17:19Z",
             "owner": "lissy93",
             "repo": "awesome-privacy",
-            "stars": 9748
+            "stars": 9751
           }
         },
         {
@@ -788,11 +841,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45943554,
             "language": null,
             "last_commit": "2026-07-15T10:58:26Z",
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9334
+            "stars": 9338
           }
         },
         {
@@ -802,11 +856,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104987608,
             "language": null,
             "last_commit": "2023-12-28T18:10:52Z",
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8060
+            "stars": 8061
           }
         },
         {
@@ -816,24 +871,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46509461,
             "language": null,
             "last_commit": "2023-09-03T02:11:13Z",
             "owner": "ajvb",
             "repo": "awesome-tor",
             "stars": 504
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Darknet",
-          "description": "Recursos sobre a darknet.",
-          "children": []
         }
       ],
       "title": "⭐ Awesome"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -842,6 +892,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55921016,
             "language": "R",
             "last_commit": "2026-04-17T18:25:35Z",
             "owner": "briatte",
@@ -856,11 +907,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4415789,
             "language": null,
             "last_commit": "2025-09-03T07:24:40Z",
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3415
+            "stars": 3414
           }
         },
         {
@@ -870,6 +922,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 50645370,
             "language": null,
             "last_commit": "2024-07-15T14:47:47Z",
             "owner": "sdnds-tw",
@@ -884,6 +937,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222767354,
             "language": null,
             "last_commit": "2026-05-18T19:39:18Z",
             "owner": "rtckit",
@@ -898,6 +952,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 455546220,
             "language": null,
             "last_commit": "2026-03-30T11:47:03Z",
             "owner": "eozer",
@@ -910,8 +965,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:52:17.714Z",
+    "last_updated": "2026-08-19T12:32:22.462Z",
     "original_repository": "alestanalves/guia-ackercode",
+    "original_repository_id": 522115646,
     "original_repository_sha": "ff82b69b22c24b34075d8975c06377a50a767dbf",
     "enhanced_repository": "enhansome/enhansome-guia-ackercode",
     "enhanced_repository_description": null,
