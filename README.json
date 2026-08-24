@@ -5,6 +5,174 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Build your own X",
+          "description": "Repositório com tutoriais para construir suas próprias versões de várias tecnologias.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 132750724,
+            "language": "Markdown",
+            "last_commit": "2026-07-14T19:25:58Z",
+            "owner": "codecrafters-io",
+            "repo": "build-your-own-x",
+            "stars": 542532
+          }
+        }
+      ],
+      "title": "Build your own X ≧◠‿◠≦"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Scripts Python",
+          "description": "Coleção de tutoriais e scripts úteis em Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 362995202,
+            "language": "Python",
+            "last_commit": "2023-07-07T03:01:34Z",
+            "owner": "ackercode",
+            "repo": "tutorials",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "🐍 Python"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Security Checklist",
+          "description": "Lista de verificação pessoal para melhorar a segurança online.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123631418,
+            "language": "TypeScript",
+            "last_commit": "2026-02-28T16:37:20Z",
+            "owner": "lissy93",
+            "repo": "personal-security-checklist",
+            "stars": 22173
+          }
+        }
+      ],
+      "title": "🔐 Security Checklist"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "computer science",
+          "description": "Currículo aberto para aprendizado de ciência da computação.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19415064,
+            "language": "HTML",
+            "last_commit": "2026-07-14T05:38:25Z",
+            "owner": "ossu",
+            "repo": "computer-science",
+            "stars": 208379
+          }
+        }
+      ],
+      "title": "👨‍💻 Introdução à Ciência da Computação"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Free programming books",
+          "description": "Coletânea de livros gratuitos sobre programação.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13491895,
+            "language": "Python",
+            "last_commit": "2026-08-18T14:16:15Z",
+            "owner": "EbookFoundation",
+            "repo": "free-programming-books",
+            "stars": 395135
+          }
+        }
+      ],
+      "title": "📚 Recomendação de livros"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "free-programming-books",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13491895,
+            "language": "Python",
+            "last_commit": "2026-08-18T14:16:15Z",
+            "owner": "EbookFoundation",
+            "repo": "free-programming-books",
+            "stars": 395135
+          }
+        }
+      ],
+      "title": "📚 Livros gratis de programação e tecnologia"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "coding-interview-university",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60493101,
+            "language": null,
+            "last_commit": "2025-08-28T14:42:47Z",
+            "owner": "jwasham",
+            "repo": "coding-interview-university",
+            "stars": 359620
+          }
+        }
+      ],
+      "title": "🗿 Dicas para passar na sua primeira entrevista de emprego em programação"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "system-design-primer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83222441,
+            "language": "Python",
+            "last_commit": "2026-03-20T01:52:19Z",
+            "owner": "donnemartin",
+            "repo": "system-design-primer",
+            "stars": 365725
+          }
+        }
+      ],
+      "title": "🎢 Construir sistemas robustos que aguentam paulada"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Hacking",
           "description": "Recursos diversos para hacking.",
           "children": [],
@@ -15,7 +183,7 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16927
+            "stars": 16929
           }
         },
         {
@@ -30,7 +198,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14790
+            "stars": 14791
           }
         },
         {
@@ -45,7 +213,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14151
+            "stars": 14149
           }
         },
         {
@@ -60,7 +228,7 @@
             "last_commit": "2026-08-21T13:51:02Z",
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13721
+            "stars": 13726
           }
         },
         {
@@ -75,7 +243,7 @@
             "last_commit": "2024-07-22T19:59:35Z",
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11788
+            "stars": 11791
           }
         },
         {
@@ -105,7 +273,7 @@
             "last_commit": "2026-08-21T18:33:19Z",
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9631
+            "stars": 9638
           }
         },
         {
@@ -120,7 +288,7 @@
             "last_commit": "2026-07-15T10:58:26Z",
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9348
+            "stars": 9349
           }
         },
         {
@@ -150,7 +318,7 @@
             "last_commit": "2024-07-15T08:05:27Z",
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5534
+            "stars": 5539
           }
         },
         {
@@ -165,7 +333,7 @@
             "last_commit": "2026-05-30T00:29:18Z",
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4492
+            "stars": 4513
           }
         },
         {
@@ -180,7 +348,7 @@
             "last_commit": "2026-01-02T13:56:00Z",
             "owner": "JoasASantos",
             "repo": "OSCE3-Complete-Guide",
-            "stars": 3887
+            "stars": 3888
           }
         },
         {
@@ -210,7 +378,7 @@
             "last_commit": "2023-10-17T12:23:20Z",
             "owner": "fkie-cad",
             "repo": "awesome-embedded-and-iot-security",
-            "stars": 2427
+            "stars": 2428
           }
         },
         {
@@ -240,7 +408,7 @@
             "last_commit": "2024-08-02T12:52:41Z",
             "owner": "jakob-pennington",
             "repo": "awesome-devsecops",
-            "stars": 1716
+            "stars": 1717
           }
         },
         {
@@ -285,7 +453,7 @@
             "last_commit": "2026-07-09T01:53:13Z",
             "owner": "cpuu",
             "repo": "awesome-fuzzing",
-            "stars": 987
+            "stars": 988
           }
         },
         {
@@ -351,7 +519,7 @@
             "last_commit": "2025-02-22T06:59:37Z",
             "owner": "Hacker0x01",
             "repo": "hacker101",
-            "stars": 14506
+            "stars": 14507
           }
         },
         {
@@ -366,7 +534,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14151
+            "stars": 14149
           }
         },
         {
@@ -381,7 +549,7 @@
             "last_commit": "2026-08-21T13:51:02Z",
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13721
+            "stars": 13726
           }
         },
         {
@@ -396,7 +564,7 @@
             "last_commit": "2026-05-31T10:54:05Z",
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10563
+            "stars": 10568
           }
         },
         {
@@ -411,7 +579,7 @@
             "last_commit": "2023-12-28T18:10:52Z",
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8068
+            "stars": 8070
           }
         },
         {
@@ -426,7 +594,7 @@
             "last_commit": "2026-08-13T15:21:19Z",
             "owner": "infoslack",
             "repo": "awesome-web-hacking",
-            "stars": 7243
+            "stars": 7244
           }
         },
         {
@@ -462,7 +630,7 @@
             "last_commit": "2024-08-21T08:14:42Z",
             "owner": "htr-tech",
             "repo": "zphisher",
-            "stars": 16679
+            "stars": 16683
           }
         },
         {
@@ -492,7 +660,7 @@
             "last_commit": "2024-09-23T04:24:43Z",
             "owner": "gophish",
             "repo": "gophish",
-            "stars": 14143
+            "stars": 14146
           }
         },
         {
@@ -543,7 +711,7 @@
             "last_commit": "2024-07-31T22:02:17Z",
             "owner": "ngalongc",
             "repo": "bug-bounty-reference",
-            "stars": 4252
+            "stars": 4253
           }
         }
       ],
@@ -564,7 +732,7 @@
             "last_commit": "2026-01-05T18:43:02Z",
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8054
+            "stars": 8058
           }
         },
         {
@@ -579,7 +747,7 @@
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6976
+            "stars": 6978
           }
         },
         {
@@ -594,7 +762,7 @@
             "last_commit": "2026-08-10T11:02:29Z",
             "owner": "HQarroum",
             "repo": "awesome-iot",
-            "stars": 4475
+            "stars": 4476
           }
         },
         {
@@ -609,7 +777,7 @@
             "last_commit": "2023-11-20T07:13:29Z",
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3884
+            "stars": 3883
           }
         },
         {
@@ -639,7 +807,7 @@
             "last_commit": "2026-03-16T09:19:48Z",
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1328
+            "stars": 1329
           }
         },
         {
@@ -689,6 +857,90 @@
         }
       ],
       "title": "🖱 Hardware"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Go",
+          "description": "Recursos incríveis sobre a linguagem Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21540759,
+            "language": "Go",
+            "last_commit": "2026-08-21T06:27:18Z",
+            "owner": "avelino",
+            "repo": "awesome-go",
+            "stars": 182112
+          }
+        }
+      ],
+      "title": "🐭 Go"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "public-apis",
+          "description": "Lista de APIs públicas gratuitas para testes e desenvolvimento.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54346799,
+            "language": "Python",
+            "last_commit": "2026-08-19T21:44:19Z",
+            "owner": "public-apis",
+            "repo": "public-apis",
+            "stars": 469639
+          }
+        }
+      ],
+      "title": "👀 Ta precisando de APIs para teste?"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "the-art-of-command-line",
+          "description": "Guia completo para uso avançado da linha de comando.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35955666,
+            "language": null,
+            "last_commit": "2024-06-25T18:13:44Z",
+            "owner": "jlevy",
+            "repo": "the-art-of-command-line",
+            "stars": 162158
+          }
+        }
+      ],
+      "title": "🤔 The Art of Command Line"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Domain analysis list",
+          "description": "Recursos para análise de domínios.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35313712,
+            "language": null,
+            "last_commit": "2024-06-07T05:09:47Z",
+            "owner": "rshipp",
+            "repo": "awesome-malware-analysis",
+            "stars": 14149
+          }
+        }
+      ],
+      "title": "📉 Domain name Research / Analysis / Reputation"
     },
     {
       "description": null,
@@ -771,7 +1023,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118882
+            "stars": 118949
           }
         },
         {
@@ -786,7 +1038,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14790
+            "stars": 14791
           }
         },
         {
@@ -801,7 +1053,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14151
+            "stars": 14149
           }
         },
         {
@@ -846,7 +1098,7 @@
             "last_commit": "2026-07-15T10:58:26Z",
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9348
+            "stars": 9349
           }
         },
         {
@@ -861,7 +1113,7 @@
             "last_commit": "2023-12-28T18:10:52Z",
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8068
+            "stars": 8070
           }
         },
         {
@@ -897,7 +1149,7 @@
             "last_commit": "2026-08-20T13:22:11Z",
             "owner": "briatte",
             "repo": "awesome-network-analysis",
-            "stars": 4099
+            "stars": 4100
           }
         },
         {
@@ -965,7 +1217,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:46:01.038Z",
+    "last_updated": "2026-08-24T14:27:10.207Z",
     "original_repository": "alestanalves/guia-ackercode",
     "original_repository_id": 522115646,
     "original_repository_sha": "ff82b69b22c24b34075d8975c06377a50a767dbf",
