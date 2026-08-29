@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "homepage": "https://codecrafters.io",
             "id": 132750724,
             "language": "Markdown",
+            "license": null,
             "last_commit": "2026-07-14T19:25:58Z",
+            "open_issues": 639,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 543696
+            "stars": 543741,
+            "topics": [
+              "awesome-list",
+              "free",
+              "programming",
+              "tutorial-code",
+              "tutorial-exercises",
+              "tutorials"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         }
@@ -32,12 +44,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aqui contém diversos tutoriais sobre programação e tecnologia",
+            "homepage": null,
             "id": 362995202,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-07T03:01:34Z",
+            "open_issues": 0,
             "owner": "ackercode",
             "repo": "tutorials",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "ackercode",
+              "awesome-list",
+              "python",
+              "python-dicas",
+              "python-script",
+              "python-tips",
+              "python-tutorials",
+              "python3",
+              "tutorial-python"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         }
@@ -54,12 +81,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026",
+            "homepage": "https://digital-defense.io",
             "id": 123631418,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-28T16:37:20Z",
+            "open_issues": 56,
             "owner": "lissy93",
             "repo": "personal-security-checklist",
-            "stars": 22206
+            "stars": 22206,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "censorship",
+              "checklist",
+              "cybersecurity",
+              "defense",
+              "hacktoberfest",
+              "open-source",
+              "privacy",
+              "protection",
+              "security",
+              "security-tools",
+              "surveillance"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         }
@@ -76,12 +122,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎓 Path to a free self-taught education in Computer Science!",
+            "homepage": "https://cs.ossu.dev",
             "id": 19415064,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-14T05:38:25Z",
+            "open_issues": 27,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208485
+            "stars": 208490,
+            "topics": [
+              "awesome-list",
+              "computer-science",
+              "courses",
+              "curriculum"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         }
@@ -98,12 +154,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: Freely available programming books",
+            "homepage": "https://ebookfoundation.github.io/free-programming-books/",
             "id": 13491895,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-18T14:16:15Z",
+            "open_issues": 92,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395466
+            "stars": 395484,
+            "topics": [
+              "books",
+              "education",
+              "hacktoberfest",
+              "list",
+              "resource"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         }
@@ -120,12 +187,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: Freely available programming books",
+            "homepage": "https://ebookfoundation.github.io/free-programming-books/",
             "id": 13491895,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-18T14:16:15Z",
+            "open_issues": 92,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395466
+            "stars": 395484,
+            "topics": [
+              "books",
+              "education",
+              "hacktoberfest",
+              "list",
+              "resource"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         }
@@ -142,12 +220,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A complete computer science study plan to become a software engineer.",
+            "homepage": null,
             "id": 60493101,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2025-08-28T14:42:47Z",
+            "open_issues": 126,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 359915
+            "stars": 359924,
+            "topics": [
+              "algorithm",
+              "algorithms",
+              "coding-interview",
+              "coding-interviews",
+              "computer-science",
+              "data-structures",
+              "interview",
+              "interview-prep",
+              "interview-preparation",
+              "programming-interviews",
+              "software-engineering",
+              "study-plan"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         }
@@ -164,12 +260,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+            "homepage": null,
             "id": 83222441,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-20T01:52:19Z",
+            "open_issues": 613,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 366585
+            "stars": 366604,
+            "topics": [
+              "design",
+              "design-patterns",
+              "design-system",
+              "development",
+              "interview",
+              "interview-practice",
+              "interview-questions",
+              "programming",
+              "python",
+              "system",
+              "web",
+              "web-application",
+              "webapp"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         }
@@ -186,12 +301,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Hacking tutorials, tools and resources",
+            "homepage": null,
             "id": 28084589,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-06-02T22:40:13Z",
+            "open_issues": 69,
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16963
+            "stars": 16964,
+            "topics": [
+              "awesome",
+              "hacking"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -202,12 +325,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
+            "homepage": null,
             "id": 23208012,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-11T02:00:26Z",
+            "open_issues": 316,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14805
+            "stars": 14805,
+            "topics": [
+              "awesome-list",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -218,12 +349,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Defund the Police.",
+            "homepage": "https://gazafunds.com/",
             "id": 35313712,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-06-07T05:09:47Z",
+            "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14162
+            "stars": 14162,
+            "topics": [
+              "analysis-framework",
+              "automated-analysis",
+              "awesome",
+              "awesome-list",
+              "chinese",
+              "chinese-translation",
+              "domain-analysis",
+              "drop-ice",
+              "dynamic-analysis",
+              "list",
+              "malware-analysis",
+              "malware-collection",
+              "malware-research",
+              "malware-samples",
+              "network-traffic",
+              "static-analysis",
+              "threat-intelligence",
+              "threat-sharing",
+              "threatintel"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -234,12 +390,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐶 A curated list of Web Security materials and resources.",
+            "homepage": "https://awesomelists.top/#/repos/qazbnm456/awesome-web-security",
             "id": 80358070,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-21T13:51:02Z",
+            "open_issues": 4,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13738
+            "stars": 13739,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "penetration-testing",
+              "security",
+              "web",
+              "websecurity"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -250,12 +419,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of CTF frameworks, libraries, resources and softwares",
+            "homepage": "https://apsdehal.in/awesome-ctf/",
             "id": 31452467,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2024-07-22T19:59:35Z",
+            "open_issues": 66,
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11803
+            "stars": 11803,
+            "topics": [
+              "awesome",
+              "ctf",
+              "penetration",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -266,12 +445,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an awesome list of honeypot resources",
+            "homepage": null,
             "id": 37659549,
             "language": "Python",
+            "license": "Artistic-2.0",
             "last_commit": "2026-06-01T14:15:45Z",
+            "open_issues": 23,
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10536
+            "stars": 10537,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "honeyd",
+              "honeypot",
+              "list"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -282,12 +472,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of android security related resources",
+            "homepage": null,
             "id": 22117770,
             "language": "Makefile",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T18:33:19Z",
+            "open_issues": 0,
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9648
+            "stars": 9649,
+            "topics": [
+              "android",
+              "awesome",
+              "awesome-list",
+              "list",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -298,12 +499,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of tools for incident response",
+            "homepage": null,
             "id": 45943554,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-07-15T10:58:26Z",
+            "open_issues": 75,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9357
+            "stars": 9357,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cybersecurity",
+              "dfir",
+              "incident-response",
+              "incident-response-tooling",
+              "list",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -314,12 +529,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for learning about application security",
+            "homepage": "https://paragonie.com/projects",
             "id": 34877308,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-02-22T16:39:11Z",
+            "open_issues": 40,
             "owner": "paragonie",
             "repo": "awesome-appsec",
-            "stars": 7046
+            "stars": 7046,
+            "topics": [
+              "application-security",
+              "curated",
+              "owasp",
+              "reading-list",
+              "security",
+              "security-experts"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -330,12 +557,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.",
+            "homepage": null,
             "id": 142053144,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-15T08:05:27Z",
+            "open_issues": 76,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5545
+            "stars": 5545,
+            "topics": [
+              "awesome-list",
+              "blue-team",
+              "computer-security",
+              "cybersecurity",
+              "defensive-security",
+              "infosec",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -346,12 +586,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚗  A curated list of resources for learning about vehicle security and car hacking.",
+            "homepage": null,
             "id": 64367335,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-30T00:29:18Z",
+            "open_issues": 3,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4533
+            "stars": 4533,
+            "topics": [
+              "automotive",
+              "awesome",
+              "awesome-list",
+              "car-hacking",
+              "cars",
+              "cybersecurity",
+              "hacking",
+              "hacking-vehicles",
+              "hardware",
+              "learning",
+              "security",
+              "vehicle-security"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -362,12 +620,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OSWE, OSEP, OSED, OSEE",
+            "homepage": null,
             "id": 377629895,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-02T13:56:00Z",
+            "open_issues": 3,
             "owner": "JoasASantos",
             "repo": "OSCE3-Complete-Guide",
-            "stars": 3888
+            "stars": 3888,
+            "topics": [
+              "offensive-security",
+              "offsec",
+              "osce",
+              "osce3",
+              "oscp",
+              "osed",
+              "osee",
+              "osep",
+              "osep-prep",
+              "oswe",
+              "oswe-guide",
+              "oswe-prep"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -378,12 +654,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎓 Because Education should be free. Contributions welcome! 🕵️ ",
+            "homepage": "https://brootware.github.io/awesome-cyber-security-university/",
             "id": 476271445,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-08-09T12:09:44Z",
+            "open_issues": 2,
             "owner": "brootware",
             "repo": "awesome-cyber-security-university",
-            "stars": 3384
+            "stars": 3391,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "courses",
+              "curriculum",
+              "cyber-security",
+              "cybersecurity",
+              "education",
+              "educational-project",
+              "free",
+              "hacking",
+              "learning-by-doing"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -394,12 +687,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome embedded and IoT security resources.",
+            "homepage": null,
             "id": 198968285,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-10-17T12:23:20Z",
+            "open_issues": 2,
             "owner": "fkie-cad",
             "repo": "awesome-embedded-and-iot-security",
-            "stars": 2431
+            "stars": 2431,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "embedded",
+              "firmware",
+              "iot",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -410,12 +715,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":unlock::sunglasses: A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.",
+            "homepage": null,
             "id": 94710048,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2022-06-28T11:17:31Z",
+            "open_issues": 13,
             "owner": "fabacab",
             "repo": "awesome-lockpicking",
-            "stars": 1917
+            "stars": 1917,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "keypicking",
+              "lockpicking",
+              "locksmith",
+              "locksmithing",
+              "locksport",
+              "physec",
+              "physical-security",
+              "picking-locks"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -426,12 +747,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curating the best DevSecOps resources and tooling.",
+            "homepage": null,
             "id": 244098056,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-08-02T12:52:41Z",
+            "open_issues": 39,
             "owner": "jakob-pennington",
             "repo": "awesome-devsecops",
-            "stars": 1720
+            "stars": 1720,
+            "topics": [
+              "application-security",
+              "awesome",
+              "awesome-list",
+              "devops",
+              "devsecops",
+              "hacktoberfest",
+              "secure-software-development"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -442,12 +776,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome resources related to executable packing",
+            "homepage": null,
             "id": 432715698,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-31T10:23:25Z",
+            "open_issues": 1,
             "owner": "packing-box",
             "repo": "awesome-executable-packing",
-            "stars": 1614
+            "stars": 1614,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "binary-analysis",
+              "cybersecurity",
+              "executable-packing",
+              "list",
+              "malware",
+              "malware-analysis",
+              "malware-packers",
+              "malware-research",
+              "packers",
+              "packing-detection",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -458,12 +812,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":computer: :coffee: List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi",
+            "homepage": null,
             "id": 49365980,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-08-24T14:05:31Z",
+            "open_issues": 9,
             "owner": "daviddias",
             "repo": "awesome-hacking-locations",
-            "stars": 1131
+            "stars": 1131,
+            "topics": [
+              "awesome-list",
+              "awesome-lists"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -474,12 +836,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Fuzzing(or Fuzz Testing) for software security",
+            "homepage": null,
             "id": 154854935,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-07-09T01:53:13Z",
+            "open_issues": 1,
             "owner": "cpuu",
             "repo": "awesome-fuzzing",
-            "stars": 991
+            "stars": 991,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cpuu",
+              "fuzz-testing",
+              "fuzzing"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -490,12 +863,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome malware persistence tools and resources. ",
+            "homepage": null,
             "id": 459227870,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-25T11:09:41Z",
+            "open_issues": 0,
             "owner": "Karneades",
             "repo": "awesome-malware-persistence",
-            "stars": 307
+            "stars": 307,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "malware",
+              "malware-analysis",
+              "malware-detection",
+              "malware-persistence",
+              "persistence",
+              "threat-hunting",
+              "threat-intelligence"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -506,12 +894,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Protection of natural persons with regard to the processing of personal data and on the free movement of such data.",
+            "homepage": null,
             "id": 184398990,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-05-31T16:51:47Z",
+            "open_issues": 2,
             "owner": "oppoverbakke",
             "repo": "awesome-gdpr",
-            "stars": 261
+            "stars": 261,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-list",
+              "gdpr",
+              "gdpr-checklist",
+              "general-data-protection-regulation",
+              "privacy",
+              "privacy-by-design",
+              "privacy-tools",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -522,12 +926,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕶 A high-level overview of the EVM security ecosystem",
+            "homepage": null,
             "id": 424978034,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2022-06-06T17:08:13Z",
+            "open_issues": 0,
             "owner": "kareniel",
             "repo": "awesome-evm-security",
-            "stars": 200
+            "stars": 200,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "blockchain",
+              "ethereum",
+              "evm",
+              "security",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         }
@@ -544,12 +961,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for Hacker101.com - a free online web and mobile security class.",
+            "homepage": "https://www.hacker101.com",
             "id": 112235591,
             "language": "SCSS",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-22T06:59:37Z",
+            "open_issues": 3,
             "owner": "Hacker0x01",
             "repo": "hacker101",
-            "stars": 14518
+            "stars": 14518,
+            "topics": [
+              "clickjacking",
+              "csrf",
+              "education",
+              "hacker101",
+              "hackerone",
+              "hacking",
+              "mobile-security",
+              "security",
+              "session-fixation",
+              "sql-injection",
+              "unchecked-redirects",
+              "vulnerability",
+              "web-security",
+              "xss"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -560,12 +997,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Defund the Police.",
+            "homepage": "https://gazafunds.com/",
             "id": 35313712,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-06-07T05:09:47Z",
+            "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14162
+            "stars": 14162,
+            "topics": [
+              "analysis-framework",
+              "automated-analysis",
+              "awesome",
+              "awesome-list",
+              "chinese",
+              "chinese-translation",
+              "domain-analysis",
+              "drop-ice",
+              "dynamic-analysis",
+              "list",
+              "malware-analysis",
+              "malware-collection",
+              "malware-research",
+              "malware-samples",
+              "network-traffic",
+              "static-analysis",
+              "threat-intelligence",
+              "threat-sharing",
+              "threatintel"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -576,12 +1038,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐶 A curated list of Web Security materials and resources.",
+            "homepage": "https://awesomelists.top/#/repos/qazbnm456/awesome-web-security",
             "id": 80358070,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-21T13:51:02Z",
+            "open_issues": 4,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13738
+            "stars": 13739,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "penetration-testing",
+              "security",
+              "web",
+              "websecurity"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -592,12 +1067,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Awesome Threat Intelligence resources",
+            "homepage": null,
             "id": 48368290,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-05-31T10:54:05Z",
+            "open_issues": 117,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10581
+            "stars": 10581,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "hacktoberfest",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -608,12 +1093,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of Awesome Red Teaming Resources",
+            "homepage": null,
             "id": 104987608,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-12-28T18:10:52Z",
+            "open_issues": 19,
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8073
+            "stars": 8074,
+            "topics": [
+              "cobalt-strike",
+              "empire",
+              "phishing",
+              "redteam",
+              "redteaming",
+              "uac"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -624,12 +1121,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of web application security",
+            "homepage": null,
             "id": 34994225,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-13T15:21:19Z",
+            "open_issues": 7,
             "owner": "infoslack",
             "repo": "awesome-web-hacking",
-            "stars": 7245
+            "stars": 7245,
+            "topics": [
+              "appsec",
+              "hacking",
+              "hacking-tools",
+              "metasploit",
+              "owasp",
+              "penetration-testing",
+              "pentesting",
+              "scanner",
+              "security",
+              "vulnerabilities",
+              "vulnerability",
+              "web-hacking",
+              "web-security"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -640,12 +1156,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome reversing resources",
+            "homepage": null,
             "id": 53292594,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-19T07:30:45Z",
+            "open_issues": 18,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4513
+            "stars": 4513,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         }
@@ -662,12 +1183,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !",
+            "homepage": null,
             "id": 223953992,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-21T08:14:42Z",
+            "open_issues": 487,
             "owner": "htr-tech",
             "repo": "zphisher",
-            "stars": 16718
+            "stars": 16718,
+            "topics": [
+              "htr-tech",
+              "phisher",
+              "phishing",
+              "phishing-attacks",
+              "phishing-pages",
+              "zphisher"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -678,12 +1211,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Rogue Access Point Framework",
+            "homepage": "https://wifiphisher.org",
             "id": 24499174,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-22T17:42:02Z",
+            "open_issues": 353,
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14793
+            "stars": 14793,
+            "topics": [
+              "access-point",
+              "attack",
+              "malware",
+              "phishing",
+              "python",
+              "redteaming",
+              "rogue",
+              "security",
+              "wifi",
+              "wifiphisher"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -694,12 +1243,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-Source Phishing Toolkit",
+            "homepage": "https://getgophish.com",
             "id": 14508450,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-23T04:24:43Z",
+            "open_issues": 756,
             "owner": "gophish",
             "repo": "gophish",
-            "stars": 14161
+            "stars": 14162,
+            "topics": [
+              "golang",
+              "gophish",
+              "phishing",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -710,12 +1269,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Phishing Tool & Information Collector ",
+            "homepage": null,
             "id": 119437761,
             "language": "CSS",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-05-20T13:21:12Z",
+            "open_issues": 2,
             "owner": "UndeadSec",
             "repo": "SocialFish",
-            "stars": 4850
+            "stars": 4852,
+            "topics": [
+              "educational",
+              "pentest",
+              "pentesting",
+              "phishing",
+              "python",
+              "undead"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         }
@@ -732,12 +1303,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive curated list of available Bug Bounty & Disclosure Programs and Write-ups.",
+            "homepage": null,
             "id": 51669870,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-07T06:49:50Z",
+            "open_issues": 30,
             "owner": "djadmin",
             "repo": "awesome-bug-bounty",
-            "stars": 5876
+            "stars": 5876,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -748,12 +1324,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inspired by https://github.com/djadmin/awesome-bug-bounty, a list of bug bounty write-up that is categorized by the bug nature",
+            "homepage": null,
             "id": 67130928,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-31T22:02:17Z",
+            "open_issues": 3,
             "owner": "ngalongc",
             "repo": "bug-bounty-reference",
-            "stars": 4256
+            "stars": 4256,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         }
@@ -770,12 +1351,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
+            "homepage": null,
             "id": 64177015,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-01-05T18:43:02Z",
+            "open_issues": 32,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8071
+            "stars": 8071,
+            "topics": [
+              "altium",
+              "awesome",
+              "eagle",
+              "electronics",
+              "gerber",
+              "hardware",
+              "kicad",
+              "pcb"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -786,12 +1381,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of awesome Robotics resources",
+            "homepage": null,
             "id": 46938122,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-09-22T20:24:10Z",
+            "open_issues": 38,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6986
+            "stars": 6986,
+            "topics": [
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -802,12 +1404,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 A curated list of awesome Internet of Things projects and resources.",
+            "homepage": null,
             "id": 43182851,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-10T11:02:29Z",
+            "open_issues": 9,
             "owner": "HQarroum",
             "repo": "awesome-iot",
-            "stars": 4486
+            "stars": 4486,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "embedded-systems",
+              "hacktoberfest",
+              "hardware",
+              "internet-of-things",
+              "iot"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -818,12 +1433,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.",
+            "homepage": null,
             "id": 217333025,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-11-20T07:13:29Z",
+            "open_issues": 13,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3885
+            "stars": 3885,
+            "topics": [
+              "aerospace",
+              "artificial-intelligence",
+              "automotive",
+              "autonomous-driving",
+              "awesome",
+              "awesome-list",
+              "cplusplus",
+              "cpp",
+              "lidar",
+              "machine-learning",
+              "mapping",
+              "point-cloud",
+              "python",
+              "robot",
+              "robotic",
+              "robotics",
+              "ros",
+              "ros2",
+              "self-driving-car",
+              "slam"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -834,12 +1475,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of code and resources for computer-controlled drawing machines and other visual art robots.",
+            "homepage": null,
             "id": 136463450,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-12-03T21:39:31Z",
+            "open_issues": 6,
             "owner": "beardicus",
             "repo": "awesome-plotters",
-            "stars": 1448
+            "stars": 1448,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "axidraw",
+              "gcode",
+              "grbl-firmware",
+              "hacktoberfest",
+              "hpgl",
+              "hpgl-plotters",
+              "pen-plotter",
+              "plotter",
+              "plotter-art",
+              "roland-plotters",
+              "vector-graphics"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -850,12 +1510,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.",
+            "homepage": "https://szenergy.github.io/awesome-lidar/",
             "id": 255347464,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-16T09:19:48Z",
+            "open_issues": 0,
             "owner": "szenergy",
             "repo": "awesome-lidar",
-            "stars": 1332
+            "stars": 1332,
+            "topics": [
+              "3d",
+              "3d-lidar",
+              "autonomous-driving",
+              "awesome",
+              "awesome-list",
+              "lidar",
+              "obstacle-detection",
+              "point-cloud",
+              "pointcloud",
+              "simulator",
+              "slam",
+              "sze",
+              "szegyetem",
+              "szenergy"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -866,12 +1546,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛠Helpful items for making open source hardware projects.",
+            "homepage": null,
             "id": 441230859,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-27T07:38:09Z",
+            "open_issues": 1,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1037
+            "stars": 1037,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "hardware",
+              "open-hardware",
+              "open-source-hardware"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -882,12 +1573,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Bluetooth beacon software and tools.",
+            "homepage": "https://www.squaremetrics.com",
             "id": 22374779,
             "language": null,
+            "license": null,
             "last_commit": "2019-05-03T11:40:22Z",
+            "open_issues": 1,
             "owner": "rabschi",
             "repo": "awesome-beacon",
-            "stars": 958
+            "stars": 958,
+            "topics": [
+              "bluetooth-beacon",
+              "bluetooth-beacons",
+              "bluetooth-low-energy",
+              "eddystone",
+              "eddystone-url",
+              "ibeacon"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -898,12 +1601,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Overview of the electric guitar's parts specs",
+            "homepage": "https://gitfrage.github.io/guitarspecs/",
             "id": 48334876,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-06-25T07:51:40Z",
+            "open_issues": 0,
             "owner": "gitfrage",
             "repo": "guitarspecs",
-            "stars": 287
+            "stars": 287,
+            "topics": [
+              "awesome-list",
+              "electronics-wiring-options",
+              "guitar",
+              "guitar-bodies",
+              "holes",
+              "neck-profile",
+              "neck-shape",
+              "neck-width",
+              "pickup",
+              "playable",
+              "sound"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         }
@@ -920,12 +1640,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Go frameworks, libraries and software",
+            "homepage": "https://awesome-go.com",
             "id": 21540759,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:52:34Z",
+            "open_issues": 219,
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 182552
+            "stars": 182561,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "go",
+              "golang",
+              "golang-library",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         }
@@ -942,12 +1674,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collective list of free APIs",
+            "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
             "id": 54346799,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T19:19:56Z",
+            "open_issues": 1809,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 472334
+            "stars": 472428,
+            "topics": [
+              "api",
+              "apis",
+              "dataset",
+              "development",
+              "free",
+              "list",
+              "lists",
+              "open-source",
+              "public",
+              "public-api",
+              "public-apis",
+              "resources",
+              "software"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         }
@@ -964,12 +1715,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Master the command line, in one page",
+            "homepage": null,
             "id": 35955666,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-25T18:13:44Z",
+            "open_issues": 257,
             "owner": "jlevy",
             "repo": "the-art-of-command-line",
-            "stars": 162179
+            "stars": 162179,
+            "topics": [
+              "bash",
+              "documentation",
+              "linux",
+              "macos",
+              "unix",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         }
@@ -986,12 +1749,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Defund the Police.",
+            "homepage": "https://gazafunds.com/",
             "id": 35313712,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-06-07T05:09:47Z",
+            "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14162
+            "stars": 14162,
+            "topics": [
+              "analysis-framework",
+              "automated-analysis",
+              "awesome",
+              "awesome-list",
+              "chinese",
+              "chinese-translation",
+              "domain-analysis",
+              "drop-ice",
+              "dynamic-analysis",
+              "list",
+              "malware-analysis",
+              "malware-collection",
+              "malware-research",
+              "malware-samples",
+              "network-traffic",
+              "static-analysis",
+              "threat-intelligence",
+              "threat-sharing",
+              "threatintel"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         }
@@ -1008,12 +1796,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias to react on a custom wake-word/sound, and once trained, Alias can take control over your home assistant by activating it for you.",
+            "homepage": null,
             "id": 133574273,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-04-05T18:36:58Z",
+            "open_issues": 22,
             "owner": "bjoernkarmann",
             "repo": "project_alias",
-            "stars": 1700
+            "stars": 1700,
+            "topics": [
+              "alias",
+              "classification",
+              "hack",
+              "machine-learning",
+              "microphone",
+              "raspberry-pi",
+              "smarthome",
+              "sound-synthesis",
+              "speech-recognition",
+              "wakeword"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -1024,12 +1828,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detect deauthentication frames using an ESP8266",
+            "homepage": null,
             "id": 88066841,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-08-28T12:56:53Z",
+            "open_issues": 19,
             "owner": "SpacehuhnTech",
             "repo": "DeauthDetector",
-            "stars": 972
+            "stars": 972,
+            "topics": [
+              "arduino",
+              "attack",
+              "deauth",
+              "deauthentication",
+              "detect",
+              "detector",
+              "disassociation",
+              "esp8266",
+              "exploit",
+              "prevention",
+              "wi-fi",
+              "wifi"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -1040,12 +1862,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Make a Raspberry Pi into a Anonymizing Tor Proxy! ",
+            "homepage": null,
             "id": 10712158,
             "language": "Shell",
+            "license": null,
             "last_commit": "2014-03-03T01:54:44Z",
+            "open_issues": 1,
             "owner": "breadtk",
             "repo": "onion_pi",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -1056,12 +1883,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get your own Bitcoin & Lightning Node running - on a RaspberryPi with a nice LCD",
+            "homepage": null,
             "id": 1122811905,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-12-23T21:59:08Z",
+            "open_issues": 1,
             "owner": "rootzoll",
             "repo": "raspiblitz",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         }
@@ -1078,12 +1910,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+            "homepage": null,
             "id": 55076063,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-07-26T03:29:02Z",
+            "open_issues": 40,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 119254
+            "stars": 119269,
+            "topics": [
+              "android",
+              "awesome",
+              "bug-bounty",
+              "fuzzing",
+              "hacking",
+              "penetration-testing",
+              "pentesting-windows",
+              "reverse-engineering",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -1094,12 +1941,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
+            "homepage": null,
             "id": 23208012,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-11T02:00:26Z",
+            "open_issues": 316,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14805
+            "stars": 14805,
+            "topics": [
+              "awesome-list",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -1110,12 +1965,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Defund the Police.",
+            "homepage": "https://gazafunds.com/",
             "id": 35313712,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-06-07T05:09:47Z",
+            "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14162
+            "stars": 14162,
+            "topics": [
+              "analysis-framework",
+              "automated-analysis",
+              "awesome",
+              "awesome-list",
+              "chinese",
+              "chinese-translation",
+              "domain-analysis",
+              "drop-ice",
+              "dynamic-analysis",
+              "list",
+              "malware-analysis",
+              "malware-collection",
+              "malware-research",
+              "malware-samples",
+              "network-traffic",
+              "static-analysis",
+              "threat-intelligence",
+              "threat-sharing",
+              "threatintel"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -1126,12 +2006,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an awesome list of honeypot resources",
+            "homepage": null,
             "id": 37659549,
             "language": "Python",
+            "license": "Artistic-2.0",
             "last_commit": "2026-06-01T14:15:45Z",
+            "open_issues": 23,
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10536
+            "stars": 10537,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "honeyd",
+              "honeypot",
+              "list"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -1142,12 +2033,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦄  A curated list of privacy & security-focused software and services",
+            "homepage": "https://awesome-privacy.xyz",
             "id": 512269935,
             "language": "Astro",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-26T17:08:44Z",
+            "open_issues": 2,
             "owner": "lissy93",
             "repo": "awesome-privacy",
-            "stars": 9802
+            "stars": 9802,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "privacy",
+              "security",
+              "self-hosted",
+              "software"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -1158,12 +2061,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of tools for incident response",
+            "homepage": null,
             "id": 45943554,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-07-15T10:58:26Z",
+            "open_issues": 75,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9357
+            "stars": 9357,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cybersecurity",
+              "dfir",
+              "incident-response",
+              "incident-response-tooling",
+              "list",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -1174,12 +2091,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of Awesome Red Teaming Resources",
+            "homepage": null,
             "id": 104987608,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-12-28T18:10:52Z",
+            "open_issues": 19,
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8073
+            "stars": 8074,
+            "topics": [
+              "cobalt-strike",
+              "empire",
+              "phishing",
+              "redteam",
+              "redteaming",
+              "uac"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -1190,12 +2119,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of awesome Tor related projects, articles, papers, etc",
+            "homepage": null,
             "id": 46509461,
             "language": null,
+            "license": null,
             "last_commit": "2023-09-03T02:11:13Z",
+            "open_issues": 3,
             "owner": "ajvb",
             "repo": "awesome-tor",
-            "stars": 508
+            "stars": 508,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "onion",
+              "tor"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         }
@@ -1212,12 +2151,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome network analysis resources.",
+            "homepage": "http://f.briatte.org/r/awesome-network-analysis-list",
             "id": 55921016,
             "language": "R",
+            "license": null,
             "last_commit": "2026-08-20T13:22:11Z",
+            "open_issues": 17,
             "owner": "briatte",
             "repo": "awesome-network-analysis",
-            "stars": 4101
+            "stars": 4101,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "complex-networks",
+              "disease-networks",
+              "graph-theory",
+              "historical-networks",
+              "list",
+              "network-analysis",
+              "network-science",
+              "network-visualization",
+              "political-networks",
+              "semantic-networks",
+              "sna",
+              "social-network-analysis",
+              "social-networks"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -1228,12 +2188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
+            "homepage": "http://caesar0301.github.io/awesome-pcaptools",
             "id": 4415789,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-09-03T07:24:40Z",
+            "open_issues": 14,
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3416
+            "stars": 3416,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -1244,12 +2209,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A awesome list about Software Defined Network (SDN)",
+            "homepage": null,
             "id": 50645370,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-07-15T14:47:47Z",
+            "open_issues": 9,
             "owner": "sdnds-tw",
             "repo": "awesome-sdn",
-            "stars": 1644
+            "stars": 1644,
+            "topics": [
+              "hacktoberfest",
+              "network-virtualization",
+              "open-network",
+              "openflow",
+              "openflow-controller",
+              "openflow-protocol",
+              "overlay-network",
+              "sdn",
+              "switch"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -1260,12 +2240,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":satellite: A curated list of awesome Real Time Communications resources",
+            "homepage": null,
             "id": 222767354,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-18T19:39:18Z",
+            "open_issues": 8,
             "owner": "rtckit",
             "repo": "awesome-rtc",
-            "stars": 494
+            "stars": 494,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "real-time-communications",
+              "rtc",
+              "sip",
+              "telecommunications",
+              "telephony",
+              "voip",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         },
@@ -1276,12 +2271,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
+            "homepage": null,
             "id": 455546220,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-30T11:47:03Z",
+            "open_issues": 3,
             "owner": "eozer",
             "repo": "awesome-snmp",
-            "stars": 192
+            "stars": 192,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "snmp"
+            ]
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
         }
@@ -1290,15 +2294,38 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:35:17.162Z",
+    "last_updated": "2026-08-29T04:45:08.495Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Guia Acker Code de Programação e Hacking",
+      "homepage": "https://alestanalves.github.io/guia-ackercode/",
       "id": 522115646,
       "language": null,
+      "license": null,
       "last_commit": "2025-07-12T04:23:15Z",
+      "open_issues": 6,
       "owner": "alestanalves",
       "repo": "guia-ackercode",
-      "stars": 398
+      "stars": 398,
+      "topics": [
+        "ackercode",
+        "awesome",
+        "awesome-hacking",
+        "awesome-list",
+        "awesome-python",
+        "cybersecurity",
+        "ethical-hacking",
+        "guia",
+        "guia-ackercode",
+        "guia-de-estudos",
+        "guia-hacking",
+        "guia-python",
+        "hacking",
+        "hacking-roadmap",
+        "hardware-hacking",
+        "python",
+        "python-roadmap"
+      ]
     },
     "original_repository_sha": "ff82b69b22c24b34075d8975c06377a50a767dbf",
     "enhanced_repository": "enhansome/enhansome-guia-ackercode",
