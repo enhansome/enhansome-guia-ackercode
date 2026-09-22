@@ -16,10 +16,10 @@
             "language": "Markdown",
             "license": null,
             "last_commit": "2026-07-14T19:25:58Z",
-            "open_issues": 645,
+            "open_issues": 646,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 548621,
+            "stars": 548802,
             "topics": [
               "awesome-list",
               "free",
@@ -90,7 +90,7 @@
             "open_issues": 52,
             "owner": "lissy93",
             "repo": "personal-security-checklist",
-            "stars": 22365,
+            "stars": 22373,
             "topics": [
               "awesome",
               "awesome-list",
@@ -131,7 +131,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209332,
+            "stars": 209370,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -159,11 +159,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-15T15:54:40Z",
-            "open_issues": 82,
+            "last_commit": "2026-09-22T12:40:54Z",
+            "open_issues": 80,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 397369,
+            "stars": 397455,
             "topics": [
               "books",
               "education",
@@ -192,11 +192,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-15T15:54:40Z",
-            "open_issues": 82,
+            "last_commit": "2026-09-22T12:40:54Z",
+            "open_issues": 80,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 397369,
+            "stars": 397455,
             "topics": [
               "books",
               "education",
@@ -229,7 +229,7 @@
             "open_issues": 126,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 361613,
+            "stars": 361718,
             "topics": [
               "algorithm",
               "algorithms",
@@ -269,7 +269,7 @@
             "open_issues": 615,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 371142,
+            "stars": 371297,
             "topics": [
               "design",
               "design-patterns",
@@ -307,10 +307,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2024-06-02T22:40:13Z",
-            "open_issues": 73,
+            "open_issues": 74,
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 17108,
+            "stars": 17115,
             "topics": [
               "awesome",
               "hacking"
@@ -331,10 +331,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-01-11T02:00:26Z",
-            "open_issues": 337,
+            "open_issues": 340,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14875,
+            "stars": 14879,
             "topics": [
               "awesome-list",
               "security"
@@ -358,7 +358,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14209,
+            "stars": 14214,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -399,7 +399,7 @@
             "open_issues": 9,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13811,
+            "stars": 13816,
             "topics": [
               "awesome",
               "awesome-list",
@@ -428,7 +428,7 @@
             "open_issues": 67,
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11860,
+            "stars": 11862,
             "topics": [
               "awesome",
               "ctf",
@@ -477,11 +477,11 @@
             "id": 22117770,
             "language": "Makefile",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T06:04:24Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-22T04:19:19Z",
+            "open_issues": 0,
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9703,
+            "stars": 9705,
             "topics": [
               "android",
               "awesome",
@@ -508,7 +508,7 @@
             "open_issues": 82,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9401,
+            "stars": 9402,
             "topics": [
               "awesome",
               "awesome-list",
@@ -538,7 +538,7 @@
             "open_issues": 42,
             "owner": "paragonie",
             "repo": "awesome-appsec",
-            "stars": 7062,
+            "stars": 7063,
             "topics": [
               "application-security",
               "curated",
@@ -566,7 +566,7 @@
             "open_issues": 82,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5571,
+            "stars": 5575,
             "topics": [
               "awesome-list",
               "blue-team",
@@ -595,7 +595,7 @@
             "open_issues": 5,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4637,
+            "stars": 4640,
             "topics": [
               "automotive",
               "awesome",
@@ -660,10 +660,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-14T02:46:20Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "brootware",
             "repo": "awesome-cyber-security-university",
-            "stars": 3554,
+            "stars": 3561,
             "topics": [
               "awesome",
               "awesome-list",
@@ -756,7 +756,7 @@
             "open_issues": 45,
             "owner": "jakob-pennington",
             "repo": "awesome-devsecops",
-            "stars": 1733,
+            "stars": 1735,
             "topics": [
               "application-security",
               "awesome",
@@ -785,7 +785,7 @@
             "open_issues": 1,
             "owner": "packing-box",
             "repo": "awesome-executable-packing",
-            "stars": 1620,
+            "stars": 1622,
             "topics": [
               "awesome",
               "awesome-list",
@@ -818,7 +818,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-08-24T14:05:31Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "daviddias",
             "repo": "awesome-hacking-locations",
             "stars": 1131,
@@ -1006,7 +1006,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14209,
+            "stars": 14214,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -1047,7 +1047,7 @@
             "open_issues": 9,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13811,
+            "stars": 13816,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1076,7 +1076,7 @@
             "open_issues": 139,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10665,
+            "stars": 10670,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1102,7 +1102,7 @@
             "open_issues": 19,
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8100,
+            "stars": 8101,
             "topics": [
               "cobalt-strike",
               "empire",
@@ -1127,10 +1127,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-18T02:51:45Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "infoslack",
             "repo": "awesome-web-hacking",
-            "stars": 7272,
+            "stars": 7275,
             "topics": [
               "appsec",
               "hacking",
@@ -1165,7 +1165,7 @@
             "open_issues": 18,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4520,
+            "stars": 4522,
             "topics": []
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
@@ -1192,7 +1192,7 @@
             "open_issues": 502,
             "owner": "htr-tech",
             "repo": "zphisher",
-            "stars": 16872,
+            "stars": 16880,
             "topics": [
               "htr-tech",
               "phisher",
@@ -1220,7 +1220,7 @@
             "open_issues": 353,
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14852,
+            "stars": 14853,
             "topics": [
               "access-point",
               "attack",
@@ -1252,7 +1252,7 @@
             "open_issues": 760,
             "owner": "gophish",
             "repo": "gophish",
-            "stars": 14238,
+            "stars": 14243,
             "topics": [
               "golang",
               "gophish",
@@ -1278,7 +1278,7 @@
             "open_issues": 2,
             "owner": "UndeadSec",
             "repo": "SocialFish",
-            "stars": 4884,
+            "stars": 4886,
             "topics": [
               "educational",
               "pentest",
@@ -1360,7 +1360,7 @@
             "open_issues": 36,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8146,
+            "stars": 8151,
             "topics": [
               "altium",
               "awesome",
@@ -1390,7 +1390,7 @@
             "open_issues": 40,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 7184,
+            "stars": 7186,
             "topics": [
               "robotics"
             ]
@@ -1442,7 +1442,7 @@
             "open_issues": 15,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3891,
+            "stars": 3892,
             "topics": [
               "aerospace",
               "artificial-intelligence",
@@ -1555,7 +1555,7 @@
             "open_issues": 7,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1069,
+            "stars": 1070,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1649,7 +1649,7 @@
             "open_issues": 231,
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 185021,
+            "stars": 185163,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1680,10 +1680,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-20T20:48:35Z",
-            "open_issues": 1915,
+            "open_issues": 1928,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 482063,
+            "stars": 482310,
             "topics": [
               "api",
               "apis",
@@ -1724,7 +1724,7 @@
             "open_issues": 256,
             "owner": "jlevy",
             "repo": "the-art-of-command-line",
-            "stars": 162471,
+            "stars": 162486,
             "topics": [
               "bash",
               "documentation",
@@ -1758,7 +1758,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14209,
+            "stars": 14214,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -1871,7 +1871,7 @@
             "open_issues": 1,
             "owner": "breadtk",
             "repo": "onion_pi",
-            "stars": 104,
+            "stars": 103,
             "topics": []
           },
           "first_seen": "2026-08-29T00:35:17.162Z"
@@ -1919,7 +1919,7 @@
             "open_issues": 42,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 120917,
+            "stars": 120992,
             "topics": [
               "android",
               "awesome",
@@ -1947,10 +1947,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-01-11T02:00:26Z",
-            "open_issues": 337,
+            "open_issues": 340,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14875,
+            "stars": 14879,
             "topics": [
               "awesome-list",
               "security"
@@ -1974,7 +1974,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14209,
+            "stars": 14214,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -2042,7 +2042,7 @@
             "open_issues": 2,
             "owner": "lissy93",
             "repo": "awesome-privacy",
-            "stars": 9892,
+            "stars": 9897,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2070,7 +2070,7 @@
             "open_issues": 82,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9401,
+            "stars": 9402,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2100,7 +2100,7 @@
             "open_issues": 19,
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8100,
+            "stars": 8101,
             "topics": [
               "cobalt-strike",
               "empire",
@@ -2294,7 +2294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:27:26.522Z",
+    "last_updated": "2026-09-22T19:46:29.683Z",
     "original_repository_info": {
       "archived": false,
       "description": "Guia Acker Code de Programação e Hacking",
